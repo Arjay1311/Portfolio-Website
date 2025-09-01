@@ -18,12 +18,13 @@ It showcases my skills, experience, and projects, and allows recruiters or visit
 ---
 
 ##  Project Structure
-
+```
 app/
 ├── api/send # Next.js pages & API routes
 ├── components/ # Reusable UI components
 ├── styles/ # Tailwind CSS styles
 ├── public/ # Static assets (images, icons, etc.)
+```
 
 ---
 
