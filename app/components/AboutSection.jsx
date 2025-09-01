@@ -159,10 +159,11 @@ const AboutSection = () => {
       <div className="md:grid md:grid-cols-2 gap-8 px-4 py-8 xl:gap-16 sm:py-16 ">
         <Image
           className="inline-block animate-slideInLeft py-20"
-          src="/images/Header-Image.jpeg"
+          src="/images/Header-Image.webp"
           alt="About Me Image"
           height={900}
           width={900}
+          priority
         />
         <div className="mt-4 md:mt-0 text-left flex-col hifull px-9 py-2 inline-block animate-slideInRight">
           <h2 className="text-4xl font-bold text-white">About Me</h2>
