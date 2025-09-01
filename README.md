@@ -1,6 +1,8 @@
 #  Portfolio Website
 
  **Live Portfolio:** [[https://your-vercel-deployment-link.vercel.app/](https://portfolio-website-kr2d-iijicti0a-jay37s-projects.vercel.app/)]  
+ <a href="https://your-vercel-deployment-link.vercel.app/" target="_blank">Live Portfolio</a>  
+
 
 A personal portfolio website built with **Next.js**, **Tailwind CSS**, **MongoDB**, and deployed on **Vercel**.  
 It showcases my skills, experience, and projects, and allows recruiters or visitors to contact me directly.
