@@ -32,10 +32,10 @@ app/
 
 ##  Features
 
-- 👨‍💻 **About Me** – Learn about my background, skills, and experience.  
-- 📂 **Projects Showcase** – Highlights of my work and contributions.  
-- 📄 **Resume Access** – Direct link to view/download my resume.  
-- 📧 **Contact Form** – Users can reach out via email or contact form.  
-- 💾 **Database Integration** – Contact form submissions are stored securely in MongoDB.  
+-  **About Me** – Learn about my background, skills, and experience.  
+-  **Projects Showcase** – Highlights of my work and contributions.  
+-  **Resume Access** – Direct link to view/download my resume.  
+-  **Contact Form** – Users can reach out via email or contact form.  
+-  **Database Integration** – Contact form submissions are stored securely in MongoDB.  
 
 ---
