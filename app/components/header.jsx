@@ -39,8 +39,7 @@ const header = () => {
           >
             View Resume
           </button>
-            View Resume
-          </button>
+          
           <button
             onClick={() =>
               window.open(
