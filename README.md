@@ -10,7 +10,8 @@ It showcases my skills, experience, and projects, and allows recruiters or visit
 
 ## Tech Stack
 
-- **Frontend Framework**: [Next.js](https://nextjs.org/)  
+- **Frontend Framework**: [React.js](https://react.dev/)
+- **Routing**: [Next.js](https://nextjs.org/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)  
 - **Database**: [MongoDB](https://www.mongodb.com/)  
 - **Deployment**: [Vercel](https://vercel.com/)  
