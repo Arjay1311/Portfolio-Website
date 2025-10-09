@@ -28,8 +28,17 @@ const header = () => {
         <div className="flex flex-col sm:flex-row gap-4 w-full sm:w-auto justify-center">
           <button
             onClick={() => window.open("/resume.pdf", "_blank")}
-            className="bg-white hover:bg-purple-900 text-black px-8 py-5 rounded-full w-full sm:w-fit animate-slideInBottom"
+            className="
+                bg-white text-black border-2
+                px-8 py-5 rounded-full w-full sm:w-fit
+                transition-all duration-100
+                hover:border-black
+                hover:bg-gradient-to-r hover:from-[#33006F] hover:to-purple-900
+                hover:text-gray-200
+                animate-slideInBottom"
           >
+            View Resume
+          </button>
             View Resume
           </button>
           <button
