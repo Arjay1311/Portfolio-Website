@@ -1,6 +1,6 @@
 #  Portfolio Website
 
- <a href="[https://portfolio-website-kr2d-gknm2n2z0-jay37s-projects.vercel.app/](https://portfolio-website-kr2d.vercel.app/)" target="_blank"><b>Live Portfolio</b></a>  
+ <a href="https://portfolio-website-kr2d-gknm2n2z0-jay37s-projects.vercel.app/" target="_blank"><b>Live Portfolio</b></a>  
 
 
 A personal portfolio website built with **Next.js**, **Tailwind CSS**, **MongoDB**, and deployed on **Vercel**.  
