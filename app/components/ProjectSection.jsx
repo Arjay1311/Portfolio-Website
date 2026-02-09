@@ -57,6 +57,20 @@ const PROJECTS = [
       "Image Segmentation",
     ],
   },
+  {
+    id: 6,
+    title: "Deep Learning Based Image Steganography Detection",
+    imgUrl: "/images/Project-6.png",
+    desc: "Built an image steganalysis model using Residual Attention and Dual Adversarial Networks, with self-supervised consistency to handle noisy data. Achieved 77.9% accuracy and 78.6% F1-score on BOSSBase, showing strong noise resilience.",
+    tag: [
+      "Python",
+      "Deep Learning",
+      "Image Processing",
+      "Image Steganography",
+      "TensorFlow",
+      "PyTorch",
+    ],
+  },
 ];
 
 const WEB_TAGS = [
