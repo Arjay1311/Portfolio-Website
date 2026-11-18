@@ -31,11 +31,12 @@ const header = () => {
             className="
                 bg-white text-black border-2
                 px-8 py-5 rounded-full w-full sm:w-fit
-                transition-all duration-100
+                transition-colors duration-250
                 hover:border-black
                 hover:bg-gradient-to-r hover:from-[#33006F] hover:to-purple-900
                 hover:text-gray-200
-                animate-slideInBottom"
+                animate-slideInBottom
+                "
           >
             View Resume
           </button>
